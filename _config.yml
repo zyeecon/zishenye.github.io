@@ -22,27 +22,7 @@ socials:
   GitHub: https://zyeecon.github.io/
   LinkedIn: https://www.linkedin.com/in/zishen-y-511154121/
   
- #inquiry form
-<div id="contact">
-        <h2>Get in Touch</h2>
-        <div id="contact-form">
-              <form
-  action="https://formspree.io/f/xknegzed"
-  method="POST"
->
-  <label>
-    Your email:
-    <input type="email" name="email">
-  </label>
-  <label>
-    Your message:
-    <textarea name="message"></textarea>
-  </label>
-  <!-- your other form fields go here -->
-  <button type="submit">Send</button>
-</form>
-        </div>
-    </div>
+
   
 # build settings
 markdown: kramdown
