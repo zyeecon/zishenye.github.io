@@ -28,7 +28,7 @@ Merck Sharp & Dohme B.V. (MSD), Jan. 2022 - June. 2022 <br/>
 </section>			
 <section>
 		<a href="generic.html" class="image">
-			<img src="{% link assets/images/pic08.jpg %}" alt="" data-position="center center" />
+			<img src="{% link assets/images/pic09.jpg %}" alt="" data-position="center center" />
 		</a>
 		<div class="content">
 			<div class="inner"><header class="major">
@@ -44,7 +44,7 @@ Apolix B.V., May. 2021 - Sep. 2022 <br/>
 
 <section>
 		<a href="generic.html" class="image">
-			<img src="{% link assets/images/pic08.jpg %}" alt="" data-position="center center" />
+			<img src="{% link assets/images/pic10.jpg %}" alt="" data-position="center center" />
 		</a>
 		<div class="content">
 			<div class="inner"><header class="major">
@@ -59,10 +59,39 @@ University of Kentucky, Aug. 2018 - Dec. 2020 <br/>
 </div>
 		</div>
 </section>
+				
 			
-			
-			
+<section>
+		<a href="generic.html" class="image">
+			<img src="{% link assets/images/pic11.jpg %}" alt="" data-position="center center" />
+		</a>
+		<div class="content">
+			<div class="inner"><header class="major">
+					<h3>Econometrics Teaching Assistant</h3>
+				</header>
+Lawrence University, Jan. 2018 - May. 2018 <br/>
+-Graded students’ assignments and provided feedback to course instructors.<br/>
+-Instructed Stata and R evening lab sessions and was responsible for Q&A for a group of 40 students.
+ 
+</div>
+		</div>
+</section>
+<section>
+		<a href="generic.html" class="image">
+			<img src="{% link assets/images/pic12.jpg %}" alt="" data-position="center center" />
+		</a>
+		<div class="content">
+			<div class="inner"><header class="major">
+					<h3>Graduate Teaching Assistant</h3>
+				</header>
+European Leadership and Academic Institute, July. 2016 - Sep. 2019<br/>
+-Responsible for collecting start-ups information in Czech to prepare for upcoming innovation week 2017.<br/>
+-Collected survey data and prepared information database of ~100 companies using excel.
 
+ 
+</div>
+		</div>
+</section>		
 
 <!-- Three -->
 <section id="three">
