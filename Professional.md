@@ -1,7 +1,7 @@
 ---
 title: Professional Experience
 layout: landing
-description: 
+description: ffd
 image: assets/images/pic07.jpg
 nav-menu: true
 ---
