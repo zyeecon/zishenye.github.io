@@ -12,7 +12,7 @@ TIAS Business School, Feb. 2022 <br/>
 - Applied text analytics on longitudinal labor statistics dataset to obtain the number of occurences of keywords in job titles by year; Tokenized, stemmed and removed stop-words for text preprocessing.
 - Created data visualizations with seaborn and matplotlib to observe trends and patterns.
 
-### [Survey Data Analysis on Office and Lab Hours](https://github.com/olivia-lin/Hours_spent_on_labs_survey_analysis)
+### [Text Mining TIAS Thesis](https://github.com/zyeecon/Text-Mining-TIAS-Thesis)
 University of Kentucky, Aug. 2018 - Dec. 2020 <br/>
 -	Implemented various time series analysis techniques (ARIMA, VAR, and GARCH) to predict the dynamic financial responses of monetary and fiscal policy changes.
 -	Investigated various simulation codes with MATLAB for DSGE-based model valuations to capture business cycle fluctuations.
