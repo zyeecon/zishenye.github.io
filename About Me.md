@@ -12,9 +12,11 @@ nav-menu: true
 <section id="one">
 	<div class="inner">
 		<header class="major">
-			<h1>Elements</h1>
+			<h1>About Me</h1>
 		</header>
 
-Olivia Lin is an enthusiastic data scientist with strong background in statistics, mathematics, and economics. She now works with the Information and Communications Technology Council of Canada (ICTC), a national centre of expertise on the digital economy. With the data & analytics team, Olivia works specifically on data visualization, web scraping, and natural language processing. Olivia brings her expertise in machine learning and data mining to the labour market research. Olivia holds a Master of Data Science from the University of British Columbia.
+Zishen Ye is an enthusiastic business analyst with strong background in financial economics, quantititave economics and econometrics, and business administration. She is a recent MScBA in Business Analytics graduate from TIAS business school in Utrecht.  Zishen also holds a BA in Economics from Lawrence University and a MSc in Economics (Qauntitave Economics and Econometrics) from University of Kentucky.
 
-Olivia has a strong passion about the field of data science and artificial intelligence because she believes these are powerful tools. Being able to devote herself to make the world in its better form and make people’s life in a more convenient way excites her a great deal. As a fast learner and problem solver, Olivia enjoys exploring new things and learning new knowledge.
+Before coming to the Netherlands, Zishen was a PhD student in Economics at the University of Kentucky. There she became increasingly fascinated by the dynamics of business, the complexity of which simple econometric models cannot quantify. She therefore decided to switch career from academic economics to business. Zishen has extensive experiences working with data using various (programming) software including Python and Matlab. She enjoys seeking continuous improvement in data processing for more efficient financial reporting purpose. She also believes that communication makes difference, and She enjoys intellectual stimulating international communication. As a fast learner and problem solver,Zishen enjoys exploring new things and learning new knowledge.
+		
+Zishen was born in Sichuan, China, grew up in Beijing, China, before immigrated to the United States at the age of 18.  Zishen is a amateur flutist and her favorite composer is Bizet. She loves French music especially! Zishen also loves traveling and goes to gym a lot in her free time.
