@@ -16,13 +16,13 @@ nav-menu: true
 					<h3>Financial Planning and Analysis Intern</h3>
 				</header>
 Merck Sharp & Dohme B.V. (MSD), Jan. 2022 - June. 2022 <br/>
-- Cleaned large financial datasets with over 20,000 entries using excel, increasing efficiency and accuracy by 50%. <br/>
-- Communicated proactively with business stakeholders to ensure financial information was updated and payments were processed.<br/>
-- Updated, reviewed, and analyzed expense reports on weekly basis according to US GAAP rules.<br/>
--	Provided timely analysis regarding division’s performance against budgeted and forecasted to drive gap closing actions.<br/>
--	Led the implementation of business intelligence (BI) solutions, using Power BI to increase the capacity of data visualization and analysis and delivered to senior management teams.<br/>
--	Continuously seek for improvement in standard FP&A reporting process (FTE Headcount; inventory control; PO and invoice reports, and others).<br/>
--	Assisted with month-end closing work and preparation for quarterly budget forecasting
+•       Cleaned large financial datasets with over 20,000 entries using excel, increasing efficiency and accuracy by 50%. <br/>
+•       Communicated proactively with business stakeholders to ensure financial information was updated and payments were processed.<br/>
+•       Updated, reviewed, and analyzed expense reports on weekly basis according to US GAAP rules.<br/>
+•	Provided timely analysis regarding division’s performance against budgeted and forecasted to drive gap closing actions.<br/>
+•	Led the implementation of business intelligence (BI) solutions, using Power BI to increase the capacity of data visualization and analysis and delivered to senior management teams.<br/>
+•	Continuously seek for improvement in standard FP&A reporting process (FTE Headcount; inventory control; PO and invoice reports, and others).<br/>
+•	Assisted with month-end closing work and preparation for quarterly budget forecasting
 	</div>
 		</div>
 </section>			
@@ -35,8 +35,8 @@ Merck Sharp & Dohme B.V. (MSD), Jan. 2022 - June. 2022 <br/>
 					<h3>Consultancy Volunteering</h3>
 				</header>
 Apolix B.V., May. 2021 - Sep. 2022 <br/>
--Developed a marketing and lead generation map for Apolix, a consulting firm specialized in process mining, through TIAS Student Consultancy. <br/>
--provided branding and public relations suggestions for the company.
+•	Developed a marketing and lead generation map for Apolix, a consulting firm specialized in process mining, through TIAS Student Consultancy. <br/>
+•	provided branding and public relations suggestions for the company.
  
 </div>
 		</div>
@@ -51,9 +51,9 @@ Apolix B.V., May. 2021 - Sep. 2022 <br/>
 					<h3>Graduate Teaching Assistant</h3>
 				</header>
 University of Kentucky, Aug. 2018 - Dec. 2020 <br/>
--Served as a primary instructor for Principle of Macroeconomics (ECO 202). Conducted training for an online class of 21 students in summer 2020. <br/>
--Led weekly recitation sessions for ECO 602 Macroeconomic Theory (PhD class) to help first-year PhD students solving problems <br/>
--Aided professors in developing lesson plans, grading, and responding students’ emails for a variety of undergraduate courses including International Trade, Industrial Organization, and Business Statistics.
+•	Served as a primary instructor for Principle of Macroeconomics (ECO 202). Conducted training for an online class of 21 students in summer 2020. <br/>
+•	Led weekly recitation sessions for ECO 602 Macroeconomic Theory (PhD class) to help first-year PhD students solving problems <br/>
+•	Aided professors in developing lesson plans, grading, and responding students’ emails for a variety of undergraduate courses including International Trade, Industrial Organization, and Business Statistics.
 
  
 </div>
@@ -70,8 +70,8 @@ University of Kentucky, Aug. 2018 - Dec. 2020 <br/>
 					<h3>Econometrics Teaching Assistant</h3>
 				</header>
 Lawrence University, Jan. 2018 - May. 2018 <br/>
--Graded students’ assignments and provided feedback to course instructors.<br/>
--Instructed Stata and R evening lab sessions and was responsible for Q&A for a group of 40 students.
+•	Graded students’ assignments and provided feedback to course instructors.<br/>
+•	Instructed Stata and R evening lab sessions and was responsible for Q&A for a group of 40 students.
  
 </div>
 		</div>
@@ -85,8 +85,8 @@ Lawrence University, Jan. 2018 - May. 2018 <br/>
 					<h3>Graduate Teaching Assistant</h3>
 				</header>
 European Leadership and Academic Institute, July. 2016 - Sep. 2019<br/>
--Responsible for collecting start-ups information in Czech to prepare for upcoming innovation week 2017.<br/>
--Collected survey data and prepared information database of ~100 companies using excel.
+•	Responsible for collecting start-ups information in Czech to prepare for upcoming innovation week 2017.<br/>
+•	Collected survey data and prepared information database of ~100 companies using excel.
 
  
 </div>
