@@ -27,7 +27,7 @@ MSD, Jan - June 2022 <br/>
 			
 <section>
 		<a href="generic.html" class="image">
-			<img src="{% link assets/images/pic08.jpg %}" alt="" data-position="right center" />
+			<img src="{% link assets/images/pic08.jpg %}" alt="" data-position="center center" />
 		</a>
 		<div class="content">
 			<div class="inner"><header class="major">
