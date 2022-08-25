@@ -5,15 +5,16 @@ description:
 image: assets/images/pic07.jpg
 nav-menu: true
 ---
-
+<!-- Two -->
 <section id="two" class="spotlights">
 	<section>
 		<a href="generic.html" class="image">
 			<img src="{% link assets/images/pic08.jpg %}" alt="" data-position="center center" />
 		</a>
 		<div class="content">
-			<div class="inner">
-### Financial Planning and Analysis Intern
+			<div class="inner"><header class="major">
+					<h3>Financial Planning and Analysis Intern</h3>
+				</header>
 MSD, Jan - June 2022 <br/>
 - Cleaned large financial datasets with over 20,000 entries using excel, increasing efficiency and accuracy by 50%. 
 - Communicated proactively with business stakeholders to ensure financial information was updated and payments were processed.
