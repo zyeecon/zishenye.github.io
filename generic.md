@@ -6,13 +6,18 @@ image: assets/images/pic11.jpg
 nav-menu: true
 ---
 
-### Unlabeled Documents Clustering and Topic Modeling
-University of British Columbia, March - April 2019 <br/>
-- Applied unsupervised learning models to cluster unlabeled documents into groups and identified latent topics
-- Trained classification models by K-Means clustering and Latent Dirichlet allocation (LDA)
-- Tokenized, stemmed and removed stop-words, and extracted features by term frequency-inverse document frequency method for text preprocessing
+### [Text Data Analytics: Master Thesis]  (https://github.com/zyeecon/Text-Mining-TIAS-Thesis)
+TIAS Business School, Feb. 2022 <br/>
+- Researched whether jobs that contain certain keywords, such as engineers, are key drivers of income and occupational polarization in the age of automation.
+- Applied text analytics on longitudinal labor statistics dataset to obtain the number of occurences of keywords in job titles by year; Tokenized, stemmed and removed stop-words for text preprocessing.
+- Created data visualizations with seaborn and matplotlib to observe trends and patterns.
 
-### AWS Text Data Analytics
-University of British Columbia, March - April 2019 <br/>
--	Applied text analytics on Google Books Ngram dataset to obtain the number of occurrences of specific words by year 
--	Created S3 bucket and used Amazon elastic map reduce (EMR) cluster to reduce the running time of this analysis
+### [Time Series Analysis] (https://github.com/zyeecon/Text-Mining-TIAS-Thesis)
+University of Kentucky, Aug. 2018 - Dec. 2020 <br/>
+-	Implemented various time series analysis techniques (ARIMA, VAR, and GARCH) to predict the dynamic financial responses of monetary and fiscal policy changes.
+-	Investigated various simulation codes with MATLAB for DSGE-based model valuations to capture business cycle fluctuations.
+
+### [Survey Data Analysis] (https://github.com/zyeecon/Stata-Coding-with-undergrad-thesis-code-sample/blob/main/Undergrad%20thesis.%20do)
+Bachelor Thesis at Lawrence University  
+-	Conducted a research on an exploratory question on whether health comparisons with closely related individuals affect individuals' self-rated health.
+-	Collected data surveys, builded models (especialy for health comparisons), and conducted statistical hypothesis testing.
