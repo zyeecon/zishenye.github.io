@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Project Experiences
+title: Project Experience
 description: 
 image: assets/images/pic11.jpg
 nav-menu: true
@@ -18,6 +18,6 @@ University of Kentucky, Aug. 2018 - Dec. 2020 <br/>
 -	Investigated various simulation codes with MATLAB for DSGE-based model valuations to capture business cycle fluctuations.
 
 ### [Survey Data Analysis] (https://github.com/zyeecon/Stata-Coding-with-undergrad-thesis-code-sample/blob/main/Undergrad%20thesis.%20do)
-Bachelor Thesis at Lawrence University  
+Bachelor Thesis at Lawrence University  <br/>
 -	Conducted a research on an exploratory question on whether health comparisons with closely related individuals affect individuals' self-rated health.
 -	Collected data surveys, builded models (especialy for health comparisons), and conducted statistical hypothesis testing.
