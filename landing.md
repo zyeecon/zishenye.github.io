@@ -51,8 +51,8 @@ Apolix B.V., May. 2021 - Sep. 2022 <br/>
 					<h3>Graduate Teaching Assistant</h3>
 				</header>
 University of Kentucky, Aug. 2018 - Dec. 2020 <br/>
--Served as a primary instructor for Principle of Macroeconomics (ECO 202). Conducted training for an online class of 21 students in summer 2020.
--Led weekly recitation sessions for ECO 602 Macroeconomic Theory (PhD class) to help first-year PhD students solving problems.
+-Served as a primary instructor for Principle of Macroeconomics (ECO 202). Conducted training for an online class of 21 students in summer 2020. <br/>
+-Led weekly recitation sessions for ECO 602 Macroeconomic Theory (PhD class) to help first-year PhD students solving problems <br/>
 -Aided professors in developing lesson plans, grading, and responding students’ emails for a variety of undergraduate courses including International Trade, Industrial Organization, and Business Statistics.
 
  
