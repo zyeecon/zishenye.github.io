@@ -21,7 +21,8 @@ nav-menu: true
 				<header class="major">
 					<h3>Financial Planning and Analysis Intern</h3>
 				</header>
-				<p>•	Cleaned large financial datasets with over 20,000 entries using excel, increasing efficiency and accuracy by 50%. 
+				<p>
+•	Cleaned large financial datasets with over 20,000 entries using excel, increasing efficiency and accuracy by 50%. 
 •	Communicated proactively with business stakeholders to ensure financial information was updated and payments were processed.
 •	Updated, reviewed, and analyzed expense reports on weekly basis according to US GAAP rules.
 •	Provided timely analysis regarding division’s performance against budgeted and forecasted to drive gap closing actions.
@@ -30,7 +31,6 @@ nav-menu: true
 •	Assisted with month-end closing work and preparation for quarterly budget forecasting.
 </p>
 				<ul class="actions">
-					<li><a href="generic.html" class="button">Learn more</a></li>
 				</ul>
 			</div>
 		</div>
