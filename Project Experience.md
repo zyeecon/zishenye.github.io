@@ -5,14 +5,13 @@ description:
 image: assets/images/pic11.jpg
 nav-menu: true
 ---
-
-### .[Text Data Analytics: Master Thesis] (https://github.com/zyeecon/Text-Mining-TIAS-Thesis)
+### [Text Mining TIAS Thesis](https://github.com/zyeecon/Text-Mining-TIAS-Thesis)
 TIAS Business School, Feb. 2022 <br/>
 - Researched whether jobs that contain certain keywords, such as engineers, are key drivers of income and occupational polarization in the age of automation.
 - Applied text analytics on longitudinal labor statistics dataset to obtain the number of occurences of keywords in job titles by year; Tokenized, stemmed and removed stop-words for text preprocessing.
 - Created data visualizations with seaborn and matplotlib to observe trends and patterns.
 
-### [Text Mining TIAS Thesis](https://github.com/zyeecon/Text-Mining-TIAS-Thesis)
+### [MATLAB Dynare] (https://github.com/zyeecon/MATLAB-Dynare)
 University of Kentucky, Aug. 2018 - Dec. 2020 <br/>
 -	Implemented various time series analysis techniques (ARIMA, VAR, and GARCH) to predict the dynamic financial responses of monetary and fiscal policy changes.
 -	Investigated various simulation codes with MATLAB for DSGE-based model valuations to capture business cycle fluctuations.
