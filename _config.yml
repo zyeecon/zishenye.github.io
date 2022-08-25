@@ -1,12 +1,10 @@
 # site settings
-title: Forty
-subtitle: by HTML5 UP
-email: youremailaddress@gmail.com
+title: Zishen Ye
+subtitle: My Personal Blog
+email: zishen.ye.96@gmail.com
 description: A responsive site template designed by HTML5 Up<br /> and released under the Creative Commons.
 baseurl: "/forty-jekyll-theme" # the subpath of your site, e.g. /blog
 url: # the base hostname & protocol for your site
-author:
-street_address: 1234 Somewhere Road
 city: Amsterdam
 province: Noord-Holland
 country: The Netherlands
