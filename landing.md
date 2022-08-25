@@ -21,16 +21,15 @@ nav-menu: true
 				<header class="major">
 					<h3>Financial Planning and Analysis Intern</h3>
 				</header> 
-###MSD, Jan 2022 - June, 2022
--Cleaned large financial datasets with over 20,000 entries using excel, increasing efficiency and accuracy by 50%. 
--Communicated proactively with business stakeholders to ensure financial information was updated and payments were processed.
--Updated, reviewed, and analyzed expense reports on weekly basis according to US GAAP rules.
--Provided timely analysis regarding division’s performance against budgeted and forecasted to drive gap closing actions.
--Led the implementation of business intelligence (BI) solutions, using Power BI to increase the capacity of data visualization and analysis and delivered to senior management teams.
--Continuously seek for improvement in standard FP&A reporting process (FTE Headcount; inventory control; PO and invoice reports, and others).
--Assisted with month-end closing work and preparation for quarterly budget forecasting.
-	</ul>
-	</div>
+
+- Cleaned large financial datasets with over 20,000 entries using excel, increasing efficiency and accuracy by 50%. 
+- Communicated proactively with business stakeholders to ensure financial information was updated and payments were processed.
+- Updated, reviewed, and analyzed expense reports on weekly basis according to US GAAP rules.
+- Provided timely analysis regarding division’s performance against budgeted and forecasted to drive gap closing actions.
+- Led the implementation of business intelligence (BI) solutions, using Power BI to increase the capacity of data visualization and analysis and delivered to senior management teams.
+-C ontinuously seek for improvement in standard FP&A reporting process (FTE Headcount; inventory control; PO and invoice reports, and others).
+- Assisted with month-end closing work and preparation for quarterly budget forecasting.
+
 </section>
 
 </div>
