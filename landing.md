@@ -21,14 +21,11 @@ nav-menu: true
 				<header class="major">
 					<h3>Financial Planning and Analysis Intern</h3>
 				</header> 
-
-- Cleaned large financial datasets with over 20,000 entries using excel, increasing efficiency and accuracy by 50%. 
-- Communicated proactively with business stakeholders to ensure financial information was updated and payments were processed.
-- Updated, reviewed, and analyzed expense reports on weekly basis according to US GAAP rules.
-- Provided timely analysis regarding division’s performance against budgeted and forecasted to drive gap closing actions.
-- Led the implementation of business intelligence (BI) solutions, using Power BI to increase the capacity of data visualization and analysis and delivered to senior management teams.
--C ontinuously seek for improvement in standard FP&A reporting process (FTE Headcount; inventory control; PO and invoice reports, and others).
-- Assisted with month-end closing work and preparation for quarterly budget forecasting.
+### Unlabeled Documents Clustering and Topic Modeling
+University of British Columbia, March - April 2019 <br/>
+- Applied unsupervised learning models to cluster unlabeled documents into groups and identified latent topics
+- Trained classification models by K-Means clustering and Latent Dirichlet allocation (LDA)
+- Tokenized, stemmed and removed stop-words, and extracted features by term frequency-inverse document frequency method for text preprocessing
 
 </section>
 
