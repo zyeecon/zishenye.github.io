@@ -82,7 +82,7 @@ Lawrence University, Jan. 2018 - May. 2018 <br/>
 		</a>
 		<div class="content">
 			<div class="inner"><header class="major">
-					<h3>Graduate Teaching Assistant</h3>
+					<h3>Summer Internship</h3>
 				</header>
 European Leadership and Academic Institute, July. 2016 - Sep. 2019<br/>
 •	Responsible for collecting start-ups information in Czech to prepare for upcoming innovation week 2017.<br/>
