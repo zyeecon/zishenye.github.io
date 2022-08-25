@@ -1,6 +1,7 @@
 ---
 layout: post
 title: About Me
+description: 
 image: assets/images/pic01.jpg
 nav-menu: true
 ---
