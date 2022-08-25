@@ -104,7 +104,7 @@ July. 2016 - Sep. 2019<br/>
 		<header class="major">
 			<h2>Project Experience</h2>
 		</header>
-		<p>In addition to the listed professional experience above, Zishen also has several project experience working with various data technique and software. Please click below or refer to the GitHub repository for more details </p>
+		<p>In addition to the listed professional experience above, Zishen also has several project experience working with various data technique and software. <br/>Please click below or refer to the GitHub repository for more details </p>
 		<ul class="actions">
 			<li><a href="generic.html" class="button next">Get Started</a></li>
 		</ul>
