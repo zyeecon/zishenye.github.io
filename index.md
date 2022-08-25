@@ -8,4 +8,18 @@ author: null
 show_tile: false
 ---
 
-Nullam et orci eu lorem consequat tincidunt vivamus et sagittis libero. Mauris aliquet magna magna sed nunc rhoncus pharetra. Pellentesque condimentum sem. In efficitur ligula tate urna. Maecenas laoreet massa vel lacinia pellentesque lorem ipsum dolor. Nullam et orci eu lorem consequat tincidunt. Vivamus et sagittis libero. Mauris aliquet magna magna sed nunc rhoncus amet pharetra et feugiat tempus.
+### Skill Set
+
+Programming:  Python (Pandas, Scikit-learn, NLTK, etc.), MATLAB, SQL <br/>
+Visualization: Tableau, Power BI, Python (Matplotlib, Seaborn) <br/>
+Software and Tools:  SAP, RapidMiner, Stata, EViews, LaTeX <br/>
+
+
+### License and Certificate
+Data Scientist with Python Track (DataCamp) <br/>
+IBM Watson Chatbot Designer (IBM)<br/>
+Budgeting and Forecasting (CFI)<br/>
+Financial Analysis Fundamentals (CFI)<br/>
+FP&A Monthly Cash Flow Forecasting (CFI)<br/>
+Accounting Principles and Standards (CFI)<br/>
+Business Valuation Modeling I & II (CFI)
