@@ -15,7 +15,7 @@ nav-menu: true
 			<div class="inner"><header class="major">
 					<h3>Financial Planning and Analysis Intern</h3>
 				</header>
-MSD, Jan - June 2022 <br/>
+Merck Sharp & Dohme B.V. (MSD), Jan. - June 2022 <br/>
 - Cleaned large financial datasets with over 20,000 entries using excel, increasing efficiency and accuracy by 50%. <br/>
 - Communicated proactively with business stakeholders to ensure financial information was updated and payments were processed.<br/>
 - Updated, reviewed, and analyzed expense reports on weekly basis according to US GAAP rules.<br/>
@@ -34,7 +34,7 @@ MSD, Jan - June 2022 <br/>
 			<div class="inner"><header class="major">
 					<h3>Consultancy Volunteering</h3>
 				</header>
-MSD, Jan - June 2022 <br/>
+Apolix B.V., May - Sep. 2022 <br/>
 -Developed a marketing and lead generation map for Apolix, a consulting firm specialized in process mining, through TIAS Student Consultancy. <br/>
 -provided branding and public relations suggestions for the company.
  
