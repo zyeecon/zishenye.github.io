@@ -20,7 +20,16 @@ nav-menu: true
 			<div class="inner">
 				<header class="major">
 					<h3>Financial Planning and Analysis Intern</h3>
-				</header> <p>Nullam et orci eu lorem consequat tincidunt vivamus et sagittis libero. Mauris aliquet magna magna sed nunc rhoncus pharetra. Pellentesque condimentum sem. In efficitur ligula tate urna. Maecenas laoreet massa vel lacinia pellentesque lorem ipsum dolor. Nullam et orci eu lorem consequat tincidunt. Vivamus et sagittis libero. Mauris aliquet magna magna sed nunc rhoncus amet pharetra et feugiat tempus.</p>
+				</header> <p>Merck Sharp & Dohme B.V. (MSD), Haarlem, The Netherlands                                                      01.2022– 06.2022
+Financial Planning and Analysis Intern
+•	Cleaned large financial datasets with over 20,000 entries using excel, increasing efficiency and accuracy by 50%. 
+•	Communicated proactively with business stakeholders to ensure financial information was updated and payments were processed.
+•	Updated, reviewed, and analyzed expense reports on weekly basis according to US GAAP rules.
+•	Provided timely analysis regarding division’s performance against budgeted and forecasted to drive gap closing actions.
+•	Led the implementation of business intelligence (BI) solutions, using Power BI to increase the capacity of data visualization and analysis and delivered to senior management teams.
+•	Continuously seek for improvement in standard FP&A reporting process (FTE Headcount; inventory control; PO and invoice reports, and others).
+•	Assisted with month-end closing work and preparation for quarterly budget forecasting.
+</p>
 
 
 </section>
