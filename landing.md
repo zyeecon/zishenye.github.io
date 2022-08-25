@@ -89,7 +89,7 @@ Jan. 2018 - May. 2018 <br/>
 					<h3>Summer Internship</h3>
 				</header>
 European Leadership and Academic Institute, Prague, Czech Republic <br/>
-July. 2016 - Sep. 2019<br/>
+July. 2016 - Sep. 2016<br/>
 •	Responsible for collecting start-ups information in Czech to prepare for upcoming innovation week 2017.<br/>
 •	Collected survey data and prepared information database of ~100 companies using excel.
 
