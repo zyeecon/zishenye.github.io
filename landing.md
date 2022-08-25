@@ -42,6 +42,8 @@ MSD, Jan - June 2022 <br/>
 -	Led the implementation of business intelligence (BI) solutions, using Power BI to increase the capacity of data visualization and analysis and delivered to senior management teams.<br/>
 -	Continuously seek for improvement in standard FP&A reporting process (FTE Headcount; inventory control; PO and invoice reports, and others).<br/>
 -	Assisted with month-end closing work and preparation for quarterly budget forecasting
+</div>
+		</div>
 </section>
 
 
