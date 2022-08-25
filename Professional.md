@@ -5,9 +5,7 @@ description: ffd
 image: assets/images/pic07.jpg
 nav-menu: true
 ---
-<a href="generic.html" class="image">
-			<img src="{% link assets/images/pic08.jpg %}" alt="" data-position="center center" />
-		</a>
+
 ### Financial Planning and Analysis Intern
 MSD, Jan - June 2022 <br/>
 •	Cleaned large financial datasets with over 20,000 entries using excel, increasing efficiency and accuracy by 50%. 
