@@ -72,7 +72,7 @@ Aug. 2018 - Dec. 2020 <br/>
 			<div class="inner"><header class="major">
 					<h3>Econometrics Teaching Assistant</h3>
 				</header>
-Lawrence University, Appleton, WI<br/>
+Lawrence University, Appleton, WI, USA<br/>
 Jan. 2018 - May. 2018 <br/>
 •	Graded students’ assignments and provided feedback to course instructors.<br/>
 •	Instructed Stata and R evening lab sessions and was responsible for Q&A for a group of 40 students.
