@@ -2,7 +2,7 @@
 layout: post
 title: Project Experience
 description: 
-image: assets/images/pic11.jpg
+image: assets/images/pic02.jpg
 nav-menu: true
 ---
 ### [Text Data Analytics: Master Thesis](https://github.com/zyeecon/Text-Mining-TIAS-Thesis)
