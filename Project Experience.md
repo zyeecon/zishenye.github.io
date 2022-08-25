@@ -5,7 +5,7 @@ description:
 image: assets/images/pic11.jpg
 nav-menu: true
 ---
-### [Text Mining TIAS Thesis](https://github.com/zyeecon/Text-Mining-TIAS-Thesis)
+### [Text Mining TIAS Thesis] (https://github.com/zyeecon/Text-Mining-TIAS-Thesis)
 TIAS Business School, Feb. 2022 <br/>
 - Researched whether jobs that contain certain keywords, such as engineers, are key drivers of income and occupational polarization in the age of automation.
 - Applied text analytics on longitudinal labor statistics dataset to obtain the number of occurences of keywords in job titles by year; Tokenized, stemmed and removed stop-words for text preprocessing.
