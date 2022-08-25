@@ -32,16 +32,12 @@ MSD, Jan - June 2022 <br/>
 		</a>
 		<div class="content">
 			<div class="inner"><header class="major">
-					<h3>Financial Planning and Analysis Intern</h3>
+					<h3>Consultancy Volunteering</h3>
 				</header>
 MSD, Jan - June 2022 <br/>
-- Cleaned large financial datasets with over 20,000 entries using excel, increasing efficiency and accuracy by 50%. <br/>
-- Communicated proactively with business stakeholders to ensure financial information was updated and payments were processed.<br/>
-- Updated, reviewed, and analyzed expense reports on weekly basis according to US GAAP rules.<br/>
--	Provided timely analysis regarding division’s performance against budgeted and forecasted to drive gap closing actions.<br/>
--	Led the implementation of business intelligence (BI) solutions, using Power BI to increase the capacity of data visualization and analysis and delivered to senior management teams.<br/>
--	Continuously seek for improvement in standard FP&A reporting process (FTE Headcount; inventory control; PO and invoice reports, and others).<br/>
--	Assisted with month-end closing work and preparation for quarterly budget forecasting
+-Developed a marketing and lead generation map for Apolix, a consulting firm specialized in process mining, through TIAS Student Consultancy. <br/>
+-provided branding and public relations suggestions for the company.
+ 
 </div>
 		</div>
 </section>
