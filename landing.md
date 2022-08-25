@@ -1,7 +1,7 @@
 ---
-title: Landing
+title: Professional Experience
 layout: landing
-description: 'Lorem ipsum dolor sit amet nullam consequa<br />sed veroeros. tempus adipiscing nulla.'
+description: 
 image: assets/images/pic07.jpg
 nav-menu: true
 ---
@@ -19,9 +19,16 @@ nav-menu: true
 		<div class="content">
 			<div class="inner">
 				<header class="major">
-					<h3>Orci maecenas</h3>
+					<h3>Financial Planning and Analysis Intern</h3>
 				</header>
-				<p>Nullam et orci eu lorem consequat tincidunt vivamus et sagittis magna sed nunc rhoncus condimentum sem. In efficitur ligula tate urna. Maecenas massa sed magna lacinia magna pellentesque lorem ipsum dolor. Nullam et orci eu lorem consequat tincidunt. Vivamus et sagittis tempus.</p>
+				<p>•	Cleaned large financial datasets with over 20,000 entries using excel, increasing efficiency and accuracy by 50%. 
+•	Communicated proactively with business stakeholders to ensure financial information was updated and payments were processed.
+•	Updated, reviewed, and analyzed expense reports on weekly basis according to US GAAP rules.
+•	Provided timely analysis regarding division’s performance against budgeted and forecasted to drive gap closing actions.
+•	Led the implementation of business intelligence (BI) solutions, using Power BI to increase the capacity of data visualization and analysis and delivered to senior management teams.
+•	Continuously seek for improvement in standard FP&A reporting process (FTE Headcount; inventory control; PO and invoice reports, and others).
+•	Assisted with month-end closing work and preparation for quarterly budget forecasting.
+</p>
 				<ul class="actions">
 					<li><a href="generic.html" class="button">Learn more</a></li>
 				</ul>
