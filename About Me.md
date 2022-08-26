@@ -13,7 +13,9 @@ Before coming to the Netherlands, Zishen was a PhD student in Economics at the U
 Zishen was born in Sichuan, China, grew up in Beijing, China, before immigrated to the United States at the age of 18.  Zishen is a amateur flutist and her favorite composer is Bizet. She loves French music especially! Zishen also loves traveling and goes to gym a lot in her free time.
 
 <br/>
-## Education
+
+
+# Education
 
 **MScBA Business Analytics** (2021 – 2022) <br/>
 TIAS Business School, Utrecht, The Netherlands <br/>
