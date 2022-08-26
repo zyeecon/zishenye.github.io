@@ -6,7 +6,7 @@ image: assets/images/pic03.jpg
 nav-menu: true
 ---
 
-<img src="{{ "assets/images/tx1.jpg" | absolute_url }}" alt="" style="width:800px"/><img src="{{ "assets/images/ts1.jpg" | absolute_url }}" alt="" style="width:680px"/>
+<img src="{{ "assets/images/tx1.jpg" | absolute_url }}" alt="" style="width:750px"/><img src="{{ "assets/images/ts1.jpg" | absolute_url }}" alt="" style="width:650px"/>
 
 *The above pictures are sample outputs from projects I have worked on*
 
