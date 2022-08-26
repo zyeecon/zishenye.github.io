@@ -27,7 +27,7 @@ Bachelor Thesis at Lawrence University  <br/>
 -	Conducted a research on an exploratory question on whether health comparisons with closely related individuals affect individuals' self-rated health.
 -	Collected data surveys, built models (especialy for health comparisons), and conducted statistical hypothesis testing.
 
-More About Me
+# More About Me
 <ul class="actions">
 			<li><a href="DProject Experience.html" class="button next">Get Started</a></li>
 		</ul>
