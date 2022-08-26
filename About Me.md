@@ -22,7 +22,7 @@ GPA: 8/10  <br/>
 Honors: TIAS Women in Business Scholarship
 
 
-**MSc in Economics (Quantitative Economics and Econometrics** (2018-2019) <br/>
+**MSc in Economics (Quantitative Economics and Econometrics)** (2018-2019) <br/>
 University of Kentucky, Lexington, KY, USA <br/>
 Fully funded research intensive program <br/>
 Fellowship: Gatton Doctoral Fellowship (2019, 2020), Luckett fellowship (2019), Max Stecler Fellowship (2018).
