@@ -6,7 +6,7 @@ image: assets/images/pic01.jpg
 nav-menu: true
 ---
 
-<span class="image left"><img src="{{ "assets/images/profile.jpg" | absolute_url }}" alt="" style="width:250px"/></span>
+<span class="image left"><img src="{{ "assets/images/profile.jpg" | absolute_url }}" alt="" style="width:800px"/></span>
 
 Zishen Ye is an enthusiastic business analyst with strong background in financial economics, quantitative economics and econometrics, and business administration. She is a recent MScBA in Business Analytics graduate from TIAS business school in Utrecht.  Zishen also holds a BA in Economics from Lawrence University and a MSc in Economics (Qauntitave Economics and Econometrics) from University of Kentucky.
 
