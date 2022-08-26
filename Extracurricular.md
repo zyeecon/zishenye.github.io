@@ -20,7 +20,6 @@ Roosevelt Institute - Lawrence University Chapter, Appleton, WI 09.2016 – 06.2
 ### Flutist
 Lawrence University Symhonic Band,  Appleton, WI 09.2016 – 06.2018
 
-<p float="left">
-<img src="{{ "assets/images/fl.jpg" | absolute_url }}" alt="" style="width:600px"/>
-<img src="{{ "assets/images/fl2.jpg" | absolute_url }}" alt="" style="width:600px"/>
-</p>
+
+<img src="{{ "assets/images/fl.jpg" | absolute_url }}" alt="" style="width:600px"/><img src="{{ "assets/images/fl2.jpg" | absolute_url }}" alt="" style="width:600px"/>
+
