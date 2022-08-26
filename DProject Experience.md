@@ -29,5 +29,5 @@ Bachelor Thesis at Lawrence University  <br/>
 
 # More About Me
 <ul class="actions">
-			<li><a href="DProject Experience.html" class="button next">Get Started</a></li>
+			<li><a href="Extracurricular.html" class="button next">Get Started</a></li>
 		</ul>
