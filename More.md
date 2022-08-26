@@ -6,7 +6,7 @@ image: assets/images/pic03.jpg
 nav-menu: true
 ---
 
-### Extra Curricular Activities
+### Extracurricular Activities
 
 Roosevelt Institute - Lawrence University Chapter, Appleton, WI 09.2016 – 06.2018 <br->
 Event Coordinator<br->
