@@ -111,4 +111,4 @@ July. 2016 - Sep. 2016<br/>
 	</div>
 </section>
 
-</div>
+
