@@ -24,19 +24,4 @@ FP&A Monthly Cash Flow Forecasting (CFI)<br/>
 Accounting Principles and Standards (CFI)<br/>
 Business Valuation Modeling I & II (CFI)
 
-### Contact Info
-<form
-  action="https://formspree.io/f/xknegzed"
-  method="POST"
->
-  <label>
-    Your email:
-    <input type="email" name="email">
-  </label>
-  <label>
-    Your message:
-    <textarea name="message"></textarea>
-  </label>
-  <!-- your other form fields go here -->
-  <button type="submit">Send</button>
-</form>
+
