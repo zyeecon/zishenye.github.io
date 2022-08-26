@@ -2,9 +2,9 @@
 layout: home
 title: Home
 landing-title: 'Hi, my name is Zishen'
-description: null
-image: null
-author: null
+description: 
+image: 
+author: 
 show_tile: false
 ---
 
