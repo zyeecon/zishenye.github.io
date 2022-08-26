@@ -21,5 +21,5 @@ Roosevelt Institute - Lawrence University Chapter, Appleton, WI 09.2016 – 06.2
 Lawrence University Symhonic Band,  Appleton, WI 09.2016 – 06.2018
 
 
-<img src="{{ "assets/images/fl.jpg" | absolute_url }}" alt="" style="width:600px"/><img src="{{ "assets/images/fl2.jpg" | absolute_url }}" alt="" style="width:510px"/>
+<img src="{{ "assets/images/fl.jpg" | absolute_url }}" alt="" style="width:600px"/><img src="{{ "assets/images/fl2.jpg" | absolute_url }}" alt="" style="width:495px"/>
 
