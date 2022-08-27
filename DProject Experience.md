@@ -8,7 +8,7 @@ nav-menu: true
 
 <img src="{{ "assets/images/tx1.jpg" | absolute_url }}" alt="" style="width:750px"/><img src="{{ "assets/images/ts1.jpg" | absolute_url }}" alt="" style="width:650px"/>
 
-*The above pictures are sample outputs from projects I have worked on*
+*The above pictures are sample outputs from projects I have worked on. For data privacy reason, I only include code for my Bachelor and Master thesis and one MATLAB Dynare simulation project code.*
 
 ### [Text Data Analytics: Master Thesis](https://github.com/zyeecon/Text-Mining-TIAS-Thesis)
 TIAS Business School, Feb. 2022 <br/>
