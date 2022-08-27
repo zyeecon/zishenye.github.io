@@ -19,7 +19,7 @@ tiles-count: 6
 # Icons are not shown if value is empty
 # You need to restart jekyll for changes to have an effect
 socials:
-  GitHub: https://zyeecon.github.io/
+  GitHub: https://github.com/zyeecon/
   LinkedIn: https://www.linkedin.com/in/zishen-y-511154121/
   
 
