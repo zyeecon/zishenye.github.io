@@ -5,7 +5,7 @@ description:
 image: assets/images/pic03.jpg
 nav-menu: true
 ---
-# Please click project title in bold to see project coding
+## Please click project title in bold to see project coding
  
 <img src="{{ "assets/images/tx1.jpg" | absolute_url }}" alt="" style="width:750px"/><img src="{{ "assets/images/ts1.jpg" | absolute_url }}" alt="" style="width:650px"/>
 
