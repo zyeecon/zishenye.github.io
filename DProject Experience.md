@@ -5,8 +5,8 @@ description:
 image: assets/images/pic03.jpg
 nav-menu: true
 ---
-### Please click project title in bold to see project coding
-
+# Please click project title in bold to see project coding
+ 
 <img src="{{ "assets/images/tx1.jpg" | absolute_url }}" alt="" style="width:750px"/><img src="{{ "assets/images/ts1.jpg" | absolute_url }}" alt="" style="width:650px"/>
 
 *The above pictures are sample outputs from projects I have worked on. For data privacy and originality reason, I only include code for my Bachelor and (part of) MScBA thesis and one MATLAB business cycle fluctuation simulation project code.*
