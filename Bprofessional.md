@@ -8,7 +8,7 @@ nav-menu: false
 <!-- Two -->
 <section id="two" class="spotlights">
 	<section>
-		<class="image">
+		<a href class="image">
 			<img src="{% link assets/images/pic08.jpg %}" alt="" data-position="center center" />
 		</a>
 		<div class="content">
