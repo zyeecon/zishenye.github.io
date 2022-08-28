@@ -3,7 +3,7 @@ title: Professional Experience
 layout: landing
 description: 
 image: assets/images/pic07.jpg
-nav-menu: true
+nav-menu: false
 ---
 <!-- Two -->
 <section id="two" class="spotlights">
