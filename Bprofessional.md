@@ -28,7 +28,7 @@ Jan. 2022 - June. 2022 <br/>
 		</div>
 </section>			
 <section>
-		<a href="generic.html" class="image">
+		<a href class="image">
 			<img src="{% link assets/images/pic09.jpg %}" alt="" data-position="center center" />
 		</a>
 		<div class="content">
@@ -45,7 +45,7 @@ May. 2021 - Sep. 2021 <br/>
 </section>
 
 <section>
-		<a href="generic.html" class="image">
+		<a href class="image">
 			<img src="{% link assets/images/pic10.jpg %}" alt="" data-position="center center" />
 		</a>
 		<div class="content">
@@ -65,7 +65,7 @@ Aug. 2018 - Dec. 2020 <br/>
 				
 			
 <section>
-		<a href="generic.html" class="image">
+		<a href class="image">
 			<img src="{% link assets/images/pic11.jpg %}" alt="" data-position="center center" />
 		</a>
 		<div class="content">
@@ -81,7 +81,7 @@ Jan. 2018 - May. 2018 <br/>
 		</div>
 </section>
 <section>
-		<a href="generic.html" class="image">
+		<a href class="image">
 			<img src="{% link assets/images/pic12.jpg %}" alt="" data-position="center center" />
 		</a>
 		<div class="content">
