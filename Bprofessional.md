@@ -8,8 +8,8 @@ nav-menu: true
 <!-- Two -->
 <section id="two" class="spotlights">
 	<section>
-		<div class="image">
-	<img src="{% link assets/images/pic08.jpg %}" alt="" data-position="left center" />
+		<a href="generic.html" class="image">
+			<img src="{% link assets/images/pic08.jpg %}" alt="" data-position="center center" />
 		</a>
 		<div class="content">
 			<div class="inner"><header class="major">
@@ -29,8 +29,8 @@ Jan. 2022 - June. 2022 <br/>
 </section>			
 <section>
 		<a href="generic.html" class="image">
-	<img src="{% link assets/images/pic09.jpg %}" alt="" data-position="center center" />
-	        </a>
+			<img src="{% link assets/images/pic09.jpg %}" alt="" data-position="center center" />
+		</a>
 		<div class="content">
 			<div class="inner"><header class="major">
 					<h3>Consultancy Volunteering</h3>
@@ -65,8 +65,8 @@ Aug. 2018 - Dec. 2020 <br/>
 				
 			
 <section>
-			<a href="generic.html" class="image">
-	<img src="{% link assets/images/pic11.jpg %}" alt="" data-position="center center" />
+		<a href="generic.html" class="image">
+			<img src="{% link assets/images/pic11.jpg %}" alt="" data-position="center center" />
 		</a>
 		<div class="content">
 			<div class="inner"><header class="major">
