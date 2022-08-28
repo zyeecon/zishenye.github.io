@@ -9,7 +9,7 @@ nav-menu: true
 <section id="two" class="spotlights">
 	<section>
 		
-			<img src="{% link assets/images/pic08.jpg %}" alt="" data-position="center center" />
+	<img src="{% link assets/images/pic08.jpg %}" alt="" data-position="center center" />
 		
 		<div class="content">
 			<div class="inner"><header class="major">
@@ -29,7 +29,7 @@ Jan. 2022 - June. 2022 <br/>
 </section>			
 <section>
 		
-			<img src="{% link assets/images/pic09.jpg %}" alt="" data-position="center center" />
+	<img src="{% link assets/images/pic09.jpg %}" alt="" data-position="center center" />
 	
 		<div class="content">
 			<div class="inner"><header class="major">
