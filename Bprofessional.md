@@ -8,9 +8,9 @@ nav-menu: true
 <!-- Two -->
 <section id="two" class="spotlights">
 	<section>
-		
+		<a href="generic.html" class="image">
 	<img src="{% link assets/images/pic08.jpg %}" alt="" data-position="left center" />
-		
+		</a>
 		<div class="content">
 			<div class="inner"><header class="major">
 					<h3>Financial Planning and Analysis Intern</h3>
@@ -28,9 +28,9 @@ Jan. 2022 - June. 2022 <br/>
 		</div>
 </section>			
 <section>
-		
+		<a href="generic.html" class="image">
 	<img src="{% link assets/images/pic09.jpg %}" alt="" data-position="center center" />
-	
+	        </a>
 		<div class="content">
 			<div class="inner"><header class="major">
 					<h3>Consultancy Volunteering</h3>
@@ -45,9 +45,9 @@ May. 2021 - Sep. 2021 <br/>
 </section>
 
 <section>
-		
+		<a href="generic.html" class="image">
 			<img src="{% link assets/images/pic10.jpg %}" alt="" data-position="center center" />
-		
+		</a>
 		<div class="content">
 			<div class="inner"><header class="major">
 					<h3>Graduate Teaching Assistant</h3>
@@ -65,8 +65,9 @@ Aug. 2018 - Dec. 2020 <br/>
 				
 			
 <section>
-			<img src="{% link assets/images/pic11.jpg %}" alt="" data-position="center center" />
-		
+			<a href="generic.html" class="image">
+	<img src="{% link assets/images/pic11.jpg %}" alt="" data-position="center center" />
+		</a>
 		<div class="content">
 			<div class="inner"><header class="major">
 					<h3>Econometrics Teaching Assistant</h3>
@@ -80,9 +81,9 @@ Jan. 2018 - May. 2018 <br/>
 		</div>
 </section>
 <section>
-		
+		<a href="generic.html" class="image">
 			<img src="{% link assets/images/pic12.jpg %}" alt="" data-position="center center" />
-		
+		</a>
 		<div class="content">
 			<div class="inner"><header class="major">
 					<h3>Summer Internship</h3>
