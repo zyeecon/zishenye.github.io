@@ -1,6 +1,6 @@
 ---
 title: Professional Experience
-layout: post
+layout: landing
 description: 
 image: assets/images/pic07.jpg
 nav-menu: false
