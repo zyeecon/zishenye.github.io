@@ -35,10 +35,11 @@ Jan. 2022 - June. 2022 <br/>
 			<div class="inner"><header class="major">
 					<h3>Consultancy Volunteering</h3>
 				</header>
-Apolix B.V., Rotterdam, The Netherlands <br/>
+TIAS Student Consultancy, Utrecht, The Netherlands <br/>
 May. 2021 - Sep. 2021 <br/>
-•	Developed a marketing and lead generation map for Apolix, a consulting firm specialized in process mining, through TIAS Student Consultancy. <br/>
-•	provided branding and public relations suggestions for the company.
+•	Conducted SWOT and Porter’s 5 Forces to understand where out client company is positioned in the process mining industry and the challenge and room for improvement.<br/>
+•	Developed a marketing and lead generation map for our client company.
+.
  
 </div>
 		</div>
