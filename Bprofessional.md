@@ -25,9 +25,10 @@ Jan. 2022 - June. 2022 <br/>
 •	Continuously seek for improvement in standard FP&A reporting process (FTE Headcount; inventory control; PO and invoice reports, and others).<br/>
 •	Assisted with month-end closing work and preparation for quarterly business planning and forecasting.
 
-	</div>
+</div>
 		</div>
-</section>			
+</section>
+	
 <section>
 		<a href class="image">
 			<img src="{% link assets/images/pic09.jpg %}" alt="" data-position="center center" />
@@ -40,7 +41,6 @@ TIAS Student Consultancy, Utrecht, The Netherlands <br/>
 May. 2021 - Sep. 2021 <br/>
 •	Conducted SWOT and Porter’s 5 Forces to understand where out client company is positioned in the process mining industry and the challenge and room for improvement.<br/>
 •	Developed a marketing and lead generation map for our client company.
-.
  
 </div>
 		</div>
