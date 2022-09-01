@@ -39,7 +39,7 @@ Jan. 2022 - June. 2022 <br/>
 				</header>
 TIAS Student Consultancy, Utrecht, The Netherlands <br/>
 May. 2021 - Sep. 2021 <br/>
-•	Conducted SWOT and Porter’s 5 Forces to understand where our client company is positioned in the process mining industry and the challenge and room for improvement.<br/>
+•	Conducted SWOT and Porter’s 5 Forces to understand where our client company is positioned,  the challenge and room for improvement within process mining industry.<br/>
 •	Developed a marketing and lead generation map for our client company.
  
 </div>
