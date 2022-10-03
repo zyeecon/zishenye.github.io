@@ -17,13 +17,11 @@ nav-menu: true
 				</header>
 Merck Sharp & Dohme B.V. (MSD), Haarlem, The Netherlands<br/> 
 Jan. 2022 - June. 2022 <br/>
-•	Led the implementation of business intelligence (BI) solutions, using Power BI to increase the capacity of data visualization and the reporting of key metrics and delivered to senior management teams.<br/>
-•	Communicated proactively with internal business stakeholders to ensure financial information was updated and payments were processed.<br/>
-•	Cleaned large financial datasets with over 20,000 entries using excel, increasing efficiency and accuracy by 30-40%. <br/>
-•	Updated, reviewed, and analyzed expense reports on weekly basis according to US GAAP rules.<br/>
+•	•	Led the implementation of business intelligence (BI) solutions, using Power BI to increase the capacity of data visualization and the reporting of key metrics and delivered to senior management teams.  <br/>
 •	Provided timely variance analysis regarding division’s performance against budgeted and forecasted to drive gap closing actions.<br/>
-•	Continuously seek for improvement in standard FP&A reporting process (FTE Headcount; inventory control; PO and invoice reports, and others).<br/>
-•	Assisted with month-end closing work and preparation for quarterly business planning and forecasting.
+•	Communicated proactively with internal business owners to ensure financial information is updated when needed for strategic P&L development management.<br/>
+•	Monitored and identified the main deviations/cost drivers regularly in coordination with team leaders to achieve cost saving goal.<br/>
+•	Assisted with month-end closing work and preparation for quarterly business planning and forecasting.<br/>
 
 </div>
 		</div>
