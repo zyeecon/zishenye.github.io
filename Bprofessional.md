@@ -17,7 +17,7 @@ nav-menu: true
 				</header>
 Merck Sharp & Dohme B.V. (MSD), Haarlem, The Netherlands<br/> 
 Jan. 2022 - June. 2022 <br/>
-•	•	Designed, deployed, and maintained Power BI based interactive financial reports; contributed to build the Power BI ways of working and financial reporting. <br/>
+•	Designed, deployed, and maintained Power BI based interactive financial reports; contributed to build the Power BI ways of working and financial reporting.<br/>
 •	Identified areas for data quality improvement, resolved data qualities issues, and maintained data integration  of information from different data sources to eliminate human errors and repetitive work. <br/>
 •	Consolidated data from multiple sources to generate meaningful reports for various stakeholders.<br/>
 •	Analyzed manufacturing financial performance against budgeted and forecasted to drive gap closing actions; data modeling in Power BI DAX to increase the capacity of data visualization and the reporting of key metrics and presented to senior management teams. <br/>
