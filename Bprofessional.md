@@ -24,7 +24,7 @@ Jan. 2022 - June. 2022 <br/>
 •	Communicated proactively with internal business owners to ensure financial information is updated when needed for strategic P&L development management.<br/>
 •	Monitored and identified the main deviations/cost drivers regularly in coordination with team leaders to achieve cost saving goal.
 
-
+</div>
 </div>
 	<section>
 		<a href class="image">
