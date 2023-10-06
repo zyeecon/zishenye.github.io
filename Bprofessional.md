@@ -9,13 +9,13 @@ nav-menu: true
 <section id="two" class="spotlights">
 	<section>
 		<a href class="image">
-			<img src="{% link assets/images/pic08.jpg %}" alt="" data-position="center center" />
+			<img src="{% link assets/images/low code.webp %}" alt="" data-position="center center" />
 		</a>
 		<div class="content">
 			<div class="inner"><header class="major">
 					<h3>Financial Planning and Analysis Intern</h3>
 				</header>
-Merck Sharp & Dohme B.V. (MSD), Haarlem, The Netherlands<br/> 
+KPMG, Amstelveen, The Netherlands<br/> 
 Jan. 2022 - June. 2022 <br/>
 •	Designed, deployed, and maintained Power BI based interactive financial reports; contributed to build the Power BI ways of working and financial reporting.<br/>
 •	Identified areas for data quality improvement, resolved data qualities issues, and maintained data integration  of information from different data sources to eliminate human errors and repetitive work. <br/>
