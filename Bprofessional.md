@@ -10,16 +10,19 @@ nav-menu: true
 
  <section>
 		<a href class="image">
-			<img src="{% link assets/images/pic09.jpg %}" alt="" data-position="center center" />
+			<img src="{% link assets/images/low code.wepb %}" alt="" data-position="center center" />
 		</a>
 		<div class="content">
 			<div class="inner"><header class="major">
-					<h3>Consultancy Volunteering</h3>
+					<h3>Specialist, Rapid Application Developer</h3>
 				</header>
-TIAS Student Consultancy, Utrecht, The Netherlands <br/>
-May. 2021 - Sep. 2021 <br/>
-•	Conducted SWOT and Porter’s 5 Forces to understand where our client company is positioned,  the challenge and room for improvement within process mining industry.<br/>
-•	Developed a marketing and lead generation map for our client company.
+KPMG, Amstelveen, The Netherlands <br/>
+Feb.2023 - Aug. 2023 <br/>
+•	Involved in developing 1 minor application and 1 major application using low-code tools (Outsystems) for audit use. Experience using test-driven development methodologies in an agile environment.<br/>
+•	Presented the completed application to stakeholders, ensuring its readiness for the testing phase.<br/>
+•       Upgraded website functionalities using JavaScript. Customized CSS code to improve webpage design for best user experience possible and to meet business needs. <br/>
+•       Collaborated with cross-functional teams to understand business and ensure business requirements are met.<br/>
+Skills: Outsystems, SQL, JavaScript, CSS, HTML, Business communication, agile working methodologies, DevOps.
  
 </div>
 		</div>
