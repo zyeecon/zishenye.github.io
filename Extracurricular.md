@@ -5,7 +5,8 @@ description:
 image: assets/images/pic05.jpg
 nav-menu: true
 ---
-Growing up in the music environment, she 
+Growing up in the classical music environment, recently Zishen discovered that ballet becomes her new passion. Ballet combines the power of athletic strengths and expressive movement, making it both an art and a sport.
+
 
 
 # Extracurricular Activities
