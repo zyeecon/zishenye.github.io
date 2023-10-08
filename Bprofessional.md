@@ -15,6 +15,10 @@ nav-menu: true
 			<div class="inner"><header class="major">
 					<h3>Financial Planning and Analysis Intern</h3>
 				</header>
+
+    </div>
+</section>
+ <section>
 KPMG, Amstelveen, The Netherlands<br/> 
 Jan. 2022 - June. 2022 <br/>
 •	Designed, deployed, and maintained Power BI based interactive financial reports; contributed to build the Power BI ways of working and financial reporting.<br/>
