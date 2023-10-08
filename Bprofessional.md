@@ -32,7 +32,7 @@ Skills: Outsystems, SQL, JavaScript, CSS, HTML, Business communication, agile wo
 
 <section>
 		<a href class="image">
-			<br><br><br>
+			<br><br><br><br>
 			<img src="{% link assets/images/pic08.jpg %}" alt="" data-position="center center" />
 		</a>
 		<div class="content">
