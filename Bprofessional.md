@@ -33,7 +33,7 @@ Skills: Outsystems, SQL, JavaScript, CSS, HTML, Business communication, agile wo
 		</a>
 		<div class="content">
 			<div class="inner"><header class="major">
-					<h3>Financial Planning and Analysis Intern</h3>
+					<h3>Intern, FP&A Business Analyst</h3>
 				</header>
 Merck Sharp & Dohme B.V. (MSD), Haarlem, The Netherlands<br/> 
 Jan. 2022 - June. 2022 <br/>
