@@ -9,7 +9,7 @@ nav-menu: true
 <section id="two" class="spotlights">
 	<section>
 		<a href class="image">
-			<img src="{% link assets/images/pic08.jpg %}" alt="" data-position="center center" />
+			<img src="{% link assets/images/low code.webp %}" alt="" data-position="center center" />
 		</a>
 		<div class="content">
 			<div class="inner"><header class="major">
