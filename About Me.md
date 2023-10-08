@@ -12,7 +12,7 @@ Zishen Ye is an enthusiastic business analyst with background in quantitative ec
 
 Zishen has a strong interest in data and technology. She is interested in leveraging data to find insights, and therefore to make informed decisions and guide overall strategy. In addition to her professional life, Zishen is also interested in technology and culture that make the world a better place. 
 
-Zishen was born in Sichuan, China, grew up in Beijing, China, before immigrated to the United States at the age of 18.  Zishen is a amateur flutist and her favorite composer is Bizet. She loves French music especially! Zishen also loves traveling and dance a lot in her free time. 
+Zishen was born in Sichuan, China, grew up in Beijing, China, before immigrated to the United States at the age of 18.  Zishen is a amateur flutist and her favorite composer is Bizet. She loves French music especially! Zishen also loves traveling and going to gym a lot in her free time. 
 
 <br/>
 
