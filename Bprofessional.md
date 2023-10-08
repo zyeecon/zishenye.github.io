@@ -16,19 +16,6 @@ nav-menu: true
 					<h3>Financial Planning and Analysis Intern</h3>
 				</header>
 
-  
-</section>
- <section>
-KPMG, Amstelveen, The Netherlands<br/> 
-Jan. 2022 - June. 2022 <br/>
-•	Designed, deployed, and maintained Power BI based interactive financial reports; contributed to build the Power BI ways of working and financial reporting.<br/>
-•	Identified areas for data quality improvement, resolved data qualities issues, and maintained data integration  of information from different data sources to eliminate human errors and repetitive work. <br/>
-•	Consolidated data from multiple sources to generate meaningful reports for various stakeholders.<br/>
-•	Analyzed manufacturing financial performance against budgeted and forecasted to drive gap closing actions; data modeling in Power BI DAX to increase the capacity of data visualization and the reporting of key metrics and presented to senior management teams. <br/>
-•	Communicated proactively with internal business owners to ensure financial information is updated when needed for strategic P&L development management.<br/>
-•	Monitored and identified the main deviations/cost drivers regularly in coordination with team leaders to achieve cost saving goal.
-
-</div>
 </div>
 	<section>
 		<a href class="image">
