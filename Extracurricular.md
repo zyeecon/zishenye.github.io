@@ -5,6 +5,8 @@ description:
 image: assets/images/pic05.jpg
 nav-menu: true
 ---
+Growing up in the music environment, she 
+
 
 # Extracurricular Activities
 
