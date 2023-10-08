@@ -23,7 +23,7 @@ Feb.2023 - Aug. 2023 <br/>
 •       Upgraded website functionalities using JavaScript. Customized CSS code to improve webpage design for best user experience possible and to meet business needs. <br/>
 •       Collaborated with cross-functional teams to understand business and ensure business requirements are met.<br/>
 Skills: Outsystems, SQL, JavaScript, CSS, HTML, Business communication, agile working methodologies, DevOps.
-
+</p>
 
 </div>
 		</div>
