@@ -9,8 +9,7 @@ Growing up in the classical music environment, recently Zishen discovered that b
 See the picture from her one of the first ballet performance at Schouwburg Amstelveen(Municipal Theatre Amstelveen) with ### [Zhembrovskyy]([https://www.zhembrovskyy.com/]
 
 
-<img src="{{ "assets/images/swan.JPG" | absolute_url }}" alt="" style="width:600px"/><img src="{{ "assets/images/swan.JPG" | absolute_url }}" alt="" style="width:600px"/>
-
+<img src="{{ "assets/images/swan.JPG" | absolute_url }}" alt="" style="width:600px"/>
 
 
 # Extracurricular Activities
