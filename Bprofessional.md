@@ -23,7 +23,7 @@ Feb.2023 - Aug. 2023 <br/>
 •       Upgraded website functionalities using JavaScript. Customized CSS code to improve webpage design for best user experience possible and to meet business needs. <br/>
 •       Collaborated with cross-functional teams to understand business and ensure business requirements are met.<br/>
 Skills: Outsystems, SQL, JavaScript, CSS, HTML, Business communication, agile working methodologies, DevOps.
-</p>
+<br><br>
 
 </div>
 		</div>
@@ -46,7 +46,7 @@ Jan. 2022 - June. 2022 <br/>
 •	Communicated proactively with internal business owners to ensure financial information is updated when needed for strategic P&L development management.<br/>
 •	Monitored and identified the main deviations/cost drivers regularly in coordination with team leaders to achieve cost saving goal.
 
-
+<br><br>
 </div>
 		</div>
 </section>
