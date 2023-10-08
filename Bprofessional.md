@@ -16,7 +16,7 @@ nav-menu: true
 					<h3>Financial Planning and Analysis Intern</h3>
 				</header>
 
-    </div>
+  
 </section>
  <section>
 KPMG, Amstelveen, The Netherlands<br/> 
