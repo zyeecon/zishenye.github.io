@@ -6,6 +6,8 @@ image: assets/images/pic05.jpg
 nav-menu: true
 ---
 Growing up in the classical music environment, recently Zishen discovered that ballet becomes her new passion. Ballet combines the power of athletic strengths and expressive movement, making it both an art and a sport.
+See the picture from her one of the first ballet performance at Schouwburg Amstelveen(Municipal Theatre Amstelveen) with 
+<img src="{{ "assets/images/rl.jpg" | absolute_url }}" alt="" style="width:600px"/><img src="{{ "assets/images/swan.jpg" | absolute_url }}" alt="" style="width:600px"/>
 
 
 
