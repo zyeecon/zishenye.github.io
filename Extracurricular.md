@@ -7,7 +7,7 @@ nav-menu: true
 ---
 Growing up in the classical music environment, recently Zishen discovered that ballet becomes her new passion. Ballet combines the power of athletic strengths and expressive movement, making it both an art and a sport.
 See the picture from her one of the first ballet performance at Schouwburg Amstelveen(Municipal Theatre Amstelveen) with ### [Zhembrovskyy]([https://github.com/zyeecon/Text-Mining-TIAS-Thesis](https://www.zhembrovskyy.com/))
-<img src="{{ "assets/images/swan.jpg" | absolute_url }}" alt="" style="width:600px"/><img src="{{ "assets/images/swan.jpg" | absolute_url }}" alt="" style="width:600px"/>
+<img src="{{ "assets/images/swan.JPG" | absolute_url }}" alt="" style="width:600px"/><img src="{{ "assets/images/swan.JPG" | absolute_url }}" alt="" style="width:600px"/>
 
 
 
