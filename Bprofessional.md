@@ -7,6 +7,12 @@ nav-menu: true
 ---
 <!-- Two -->
 <section id="two" class="spotlights">
+	<a href="generic.html" class="image">
+			<img src="{% link assets/images/pic05.jpg %}" alt="" data-position="center center" />
+	</a>
+	<div class="content">
+		</div>
+</section>
  <section>
 		<a href class="image">
 			<img src="{% link assets/images/low code.wepb %}" alt="" data-position="center center" />
