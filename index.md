@@ -18,12 +18,7 @@ Software and Tools:  SAP, RapidMiner, Stata, EViews, LaTeX <br/>
 ### License and Certificate
 Data Scientist with Python Track (DataCamp) <br/>
 SQL for Database Administrators (DataCamp) <br/>
-Google Advanced Analytics (Google)<br/>
 IBM Watson Chatbot Designer (IBM)<br/>
-Budgeting and Forecasting (CFI)<br/>
-Financial Analysis Fundamentals (CFI)<br/>
-FP&A Monthly Cash Flow Forecasting (CFI)<br/>
-Accounting Principles and Standards (CFI)<br/>
-Business Valuation Modeling I & II (CFI)
+
 
 
