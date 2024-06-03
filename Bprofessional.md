@@ -11,7 +11,7 @@ nav-menu: true
  <section>
 		<a href class="image">
 			<br><br>
-			<img src="{% link assets/images/logo.svg %}" alt="" data-position="center center" />
+			<img src="{% link assets/images/Vistra_Logo.jpg %}" alt="" data-position="center center" />
 		</a>
 		<div class="content">
 			<div class="inner"><header class="major">
