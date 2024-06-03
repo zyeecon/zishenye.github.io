@@ -11,20 +11,20 @@ nav-menu: true
  <section>
 		<a href class="image">
 			<br><br>
-			<img src="{% link assets/images/low code.webp %}" alt="" data-position="center center" />
+			<img src="{% link assets/images/logo.svg %}" alt="" data-position="center center" />
 		</a>
 		<div class="content">
 			<div class="inner"><header class="major">
 					<h3>Specialist, Rapid Application Developer</h3>
 				</header>
 
-KPMG, Amstelveen, The Netherlands <br/>
-Feb.2023 - Aug. 2023 <br/>
-•	Involved in developing 1 minor application and 1 major application using low-code tools (Outsystems) for audit use. Experience using test-driven development methodologies in an agile environment.<br/>
-•	Presented the completed application to stakeholders, ensuring its readiness for the testing phase.<br/>
-•       Upgraded website functionalities using SQL and JavaScript. Customized CSS code to improve webpage design for best user experience possible and to meet business needs. <br/>
-•       Collaborated with cross-functional teams to understand business and ensure business requirements are met.<br/>
-Skills: Outsystems, SQL, JavaScript, CSS, HTML, Business communication, agile working methodologies, DevOps.
+Vistra, Amsterdam Netherlands <br/>
+Sep.2023 - Current <br/>
+•	Provided analytics and dashboards to various internal stakeholders, including compliance, legal, and HR departments to support their business requirements.<br/>
+•	Supported month-end closings and audits, including the full consolidation of subsidiaries and branch activities and maintained documentation and analysis for audit and compliance purposes.<br/>
+•       Actively participated in process improvement discussions and the development of new reporting procedures using Power BI. <br/>
+•       Streamlined weekly finance revenue reporting updates and operational procedures with Excel VBA/Macros and SQL.<br/>
+Skills: Excel with VBA, Power BI, SAP S/4HANA, SQL.
 <br><br><br><br>
 
 </div>
@@ -67,7 +67,7 @@ Jan. 2022 - June. 2022 <br/>
 •	Designed, deployed, and maintained Power BI based interactive financial reports; contributed to build the Power BI ways of working and financial reporting.<br/>
 •	Identified areas for data quality improvement, resolved data qualities issues, and maintained data integration  of information from different data sources to eliminate human errors and repetitive work. <br/>
 •	Consolidated data from multiple sources to generate meaningful reports for various stakeholders.<br/>
-•	Analyzed manufacturing financial performance against budgeted and forecasted to drive gap closing actions; data modeling in Power BI DAX to increase the capacity of data visualization and the reporting of key metrics and presented to senior management teams. <br/>
+•	Analyzed manufacturing financial performance against budgeted and forecasted to drive gap closing actions; data modeling in Power BI DAX and Power Appsto increase the capacity of data visualization and the reporting of key metrics and presented to senior management teams. <br/>
 •	Communicated proactively with internal business owners to ensure financial information is updated when needed for strategic P&L development management.<br/>
 •	Monitored and identified the main deviations/cost drivers regularly in coordination with team leaders to achieve cost saving goal.
 
