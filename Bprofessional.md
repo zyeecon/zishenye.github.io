@@ -7,6 +7,29 @@ nav-menu: true
 ---
 <!-- Two -->
 <section id="two" class="spotlights">
+
+ <section>
+		<a href class="image">
+			<br><br>
+			<img src="{% link assets/images/low code.webp %}" alt="" data-position="center center" />
+		</a>
+		<div class="content">
+			<div class="inner"><header class="major">
+					<h3>Specialist, Rapid Application Developer</h3>
+				</header>
+
+KPMG, Amstelveen, The Netherlands <br/>
+Feb.2023 - Aug. 2023 <br/>
+•	Involved in developing 1 minor application and 1 major application using low-code tools (Outsystems) for audit use. Experience using test-driven development methodologies in an agile environment.<br/>
+•	Presented the completed application to stakeholders, ensuring its readiness for the testing phase.<br/>
+•       Upgraded website functionalities using SQL and JavaScript. Customized CSS code to improve webpage design for best user experience possible and to meet business needs. <br/>
+•       Collaborated with cross-functional teams to understand business and ensure business requirements are met.<br/>
+Skills: Outsystems, SQL, JavaScript, CSS, HTML, Business communication, agile working methodologies, DevOps.
+<br><br><br><br>
+
+</div>
+		</div>
+</section>
 	<section>
 		<a href class="image">
 			<br><br>
