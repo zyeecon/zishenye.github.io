@@ -15,7 +15,7 @@ nav-menu: true
 		</a>
 		<div class="content">
 			<div class="inner"><header class="major">
-					<h3>Specialist, Rapid Application Developer</h3>
+					<h3>Junior Business Analyst</h3>
 				</header>
 
 Vistra, Amsterdam Netherlands <br/>
