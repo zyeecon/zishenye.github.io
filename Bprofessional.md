@@ -20,7 +20,7 @@ nav-menu: true
 
 Vistra, Amsterdam Netherlands <br/>
 Sep.2023 - Current <br/>
-•	PSupported month-end closings and audits, including the full consolidation of subsidiaries and branch activities and maintained documentation and analysis for audit and compliance purposes.<br/>
+•	Supported month-end closings and audits, including the full consolidation of subsidiaries and branch activities and maintained documentation and analysis for audit and compliance purposes.<br/>
 •	Conducted ad-hoc dashboard analyses to extract insights into revenue, productivity, and operational capacity, contributing actively to internal business projects.<br/>
 •       Developed and maintained Excel VBA/Macro to automate weekly operation updates and procedures, modifying existing VBA scripts. <br/>
 •       Actively involved in process improvement discussions and participated in the development of new reporting procedures with Power BI.<br/>
