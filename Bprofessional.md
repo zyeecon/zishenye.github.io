@@ -42,10 +42,10 @@ Skills: Excel with VBA, Power BI, SAP S/4HANA, SQL.
 
 KPMG, Amstelveen, The Netherlands <br/>
 Feb.2023 - Aug. 2023 <br/>
-•	Involved in developing 1 minor application and 1 major application using low-code tools (Outsystems) for audit use. Experience using test-driven development methodologies in an agile environment.<br/>
-•	Presented the completed application to stakeholders, ensuring its readiness for the testing phase.<br/>
-•       Upgraded website functionalities using SQL and JavaScript. Customized CSS code to improve webpage design for best user experience possible and to meet business needs. <br/>
-•       Collaborated with cross-functional teams to understand business and ensure business requirements are met.<br/>
+•	App Development: Developed web application for audit purpose using low code platform (Outsystems).<br/>
+•	Data Analytics: Leveraged SQL to optimize data queries within OutSystems, enhancing application performance and ensuring efficient data processing for improved scalability and responsiveness.<br/>
+•       Dashboard Development: Collaborated with stakeholders to gather requirements and deliver data-driven insights through custom dashboards and reports. <br/>
+•       Communication: Collaborated with product and RPA and product teams to understand business needs and ensure successful project execution.<br/>
 Skills: Outsystems, SQL, JavaScript, CSS, HTML, Business communication, agile working methodologies, DevOps.
 <br><br><br><br>
 
