@@ -15,11 +15,10 @@ TIAS Business School, Feb. 2022 <br/>
 - Applied text analytics on longitudinal labor statistics dataset to obtain the number of occurences of keywords in job titles by year; Tokenized, stemmed and removed stop-words for text preprocessing.
 - Created data visualizations with seaborn and matplotlib to observe trends and patterns.
 
-### [Time series analysis: Graduate Student Researcher](https://github.com/zyeecon/MATLAB-Dynare)
+### Time series analysis: Graduate Student Researcher
 University of Kentucky, Aug. 2018 - Dec. 2020 <br/>
--	Implemented various time series analysis techniques (ARIMA, VAR, and GARCH) to predict the dynamic financial responses of monetary and fiscal policy changes.
--	Investigated various simulation codes with MATLAB for DSGE-based model valuations to capture business cycle fluctuations.
-
+-	Researched the effects of historical intense activities (Carter-Reagan buildup, 9/11/, presidential election 2016) on spending, taxes and GDP output using SVAR (Structured Vector Autoregression) approach.
+-	Developed and interpreted Impulse Response Functions (IRF) with MATLAB to understand economic impacts following the shocks.
 
 ### [Survey Data Analysis](https://github.com/zyeecon/Survey-Data-Analysis)
 Bachelor Thesis at Lawrence University  <br/>
