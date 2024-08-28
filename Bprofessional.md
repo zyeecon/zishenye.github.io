@@ -20,10 +20,10 @@ nav-menu: true
 
 Vistra, Amsterdam Netherlands <br/>
 Sep.2023 - Current <br/>
-•	Supported month-end closings and audits, including the full consolidation of subsidiaries and branch activities and maintained documentation and analysis for audit and compliance purposes.<br/>
-•	Conducted ad-hoc dashboard analyses to extract insights into revenue, productivity, and operational capacity, contributing actively to internal business projects.<br/>
-•       Developed and maintained Excel VBA/Macro to automate weekly operation updates and procedures, modifying existing VBA scripts. <br/>
-•       Actively involved in process improvement discussions and participated in the development of new reporting procedures with Power BI.<br/>
+•	BI Reporting: Designed and maintained robust models to forecast and analyze KPIs across multiple business lines, providing actionable insights and strategic recommendations to senior management.<br/>
+•	Process Optimization: Led the redesign of a complex KPI reporting process, collaborating with IT to implement a new SQL Server Reporting Services (SSRS) solution, significantly reducing human errors and enhancing reporting quality.<br/>
+•       System Migration: Played a key role in the migration of the invoicing system from ViewPoint to SAP S/4HANA, ensuring seamless data consolidation and integration with financial systems.<br/>
+•       Automation: Automated Excel reporting with Macro/VBA and Power BI, improving efficiency and reducing manual intervention<br/>
 Skills: Excel with VBA, Power BI, SAP S/4HANA, SQL.
 <br><br><br><br>
 
