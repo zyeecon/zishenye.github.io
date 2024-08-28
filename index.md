@@ -19,6 +19,8 @@ Software and Tools:  SAP, RapidMiner, Stata, EViews, LaTeX <br/>
 Data Scientist with Python Track (DataCamp) <br/>
 SQL for Database Administrators (DataCamp) <br/>
 IBM Watson Chatbot Designer (IBM)<br/>
-
+FRM Level 1 (Global Association of Risk Professionals)<br/>
+Azure Data Fundamentals DP-900 (Microsoft)<br/>
+Power BI Data Analyst Associate PL-300 (Microsoft)
 
 
