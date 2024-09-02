@@ -21,6 +21,7 @@ nav-menu: true
 Vistra, Amsterdam Netherlands <br/>
 Sep.2023 - Current <br/>
 •	BI Reporting: Designed and maintained robust models to forecast and analyze KPIs across multiple business lines, providing actionable insights and strategic recommendations to senior management.<br/>
+•	Variance Analysis: Conducted variance analysis for revenue reports, providing actionable insights to senior management to align financial performance with company objectives.<br/>
 •	Process Optimization: Led the redesign of a complex KPI reporting process, collaborating with IT to implement a new SQL Server Reporting Services (SSRS) solution, significantly reducing human errors and enhancing reporting quality.<br/>
 •       System Migration: Played a key role in the migration of the invoicing system from ViewPoint to SAP S/4HANA, ensuring seamless data consolidation and integration with financial systems.<br/>
 •       Automation: Automated Excel reporting with Macro/VBA and Power BI, improving efficiency and reducing manual intervention<br/>
@@ -64,12 +65,10 @@ Skills: Outsystems, SQL, JavaScript, CSS, HTML, Business communication, agile wo
 				</header>
 Merck Sharp & Dohme B.V. (MSD), Haarlem, The Netherlands<br/> 
 Jan. 2022 - June. 2022 <br/>
-•	Designed, deployed, and maintained Power BI based interactive financial reports; contributed to build the Power BI ways of working and financial reporting.<br/>
-•	Identified areas for data quality improvement, resolved data qualities issues, and maintained data integration  of information from different data sources to eliminate human errors and repetitive work. <br/>
-•	Consolidated data from multiple sources to generate meaningful reports for various stakeholders.<br/>
-•	Analyzed manufacturing financial performance against budgeted and forecasted to drive gap closing actions; data modeling in Power BI DAX and Power Appsto increase the capacity of data visualization and the reporting of key metrics and presented to senior management teams. <br/>
-•	Communicated proactively with internal business owners to ensure financial information is updated when needed for strategic P&L development management.<br/>
-•	Monitored and identified the main deviations/cost drivers regularly in coordination with team leaders to achieve cost saving goal.
+•       P&L Management: Assisted in compiling and categorizing expense reports for the Operating Expenses (Opex) section of the P&L statement, directly impacting net profit calculations.<br/>
+•	Variance Analysis and Cost Control: Conducted detailed analysis of actual expenses versus forecasted and budgeted figures to identify cost-saving opportunities, enhancing organizational efficiency and driving financial performance improvements.<br/>
+•	Reporting Enhancement: Led the transition of financial reporting from Excel to Power BI, improving data visualization and accessibility for stakeholders. <br/>
+
 
 <br><br><br><br>
 </div>
